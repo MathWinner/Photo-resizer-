@@ -1,1 +1,1 @@
-# Photo-resizer-
+# Photo-resizer
